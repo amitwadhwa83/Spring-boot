@@ -1,2 +1,2 @@
 # Spring-boot
-Basis sprong boot project
+Basis spring boot project
